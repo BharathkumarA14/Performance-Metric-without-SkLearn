@@ -1,10 +1,11 @@
-### Performance-Metric-without-SkLearn
-Compute performance metrics for the given Y and Y_score without sklearn
+##### Performance-Metric-without-SkLearn
 
-1.Compute Confusion Matrix
+# Compute performance metrics for the given Y and Y_score without sklearn
 
-2.Compute F1 Score
+1. Compute Confusion Matrix
 
-3.Compute AUC Score
+2. Compute F1 Score
 
-4.Compute Accuracy Score
+3. Compute AUC Score
+
+4. Compute Accuracy Score
